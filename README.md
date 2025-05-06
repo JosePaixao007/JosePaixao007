@@ -6,11 +6,14 @@
  <br><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="icone javascript"/><br>
  <br><img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" />
 
+
+<br>
+<br>
 <br>
 
 
-[![José Paixão stats](https://github-readme-stats.vercel.app/api?username=JosePaixao007)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosePaixao007&show_icons=true&theme=transparent)
 
 
 <br>
