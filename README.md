@@ -1,5 +1,5 @@
-## Hi there 👋
- Olá! Sou José Paixão, desenvolvedor programador front-end, apaixonado por transformar ideias em interfaces interativas e responsivas. Estou praticando com HTML, CSS e JavaScript, e sempre buscando 
+## Olá 👋
+ Sou José Paixão, desenvolvedor programador front-end, apaixonado por transformar ideias em interfaces interativas e responsivas. Estou praticando com HTML, CSS e JavaScript, e sempre buscando 
  novas tecnologias e evoluir com novos desafios. 🚀 <br>
  <br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="icone html5"/><br>
  <br><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="icone css3" /><br>
